@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RoomDatabase MVVM</string>
+
+    <string name="todo">TODO</string>
+    <string name="alarm">Alarm</string>
+    <string name="no_alarm">No Alarm</string>
+    <string name="save">Save</string>
+    <string name="repeat">Repeat</string>
+    <string name="alarm_name">Alarm Name</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="select_alarm_tone">Select Alarm Tone</string>
+    <string name="vibration">Vibration</string>
+    <string name="fade_in_fade_out">Fade In/ Fade Out</string>
+    <string name="fade_in">Fade In</string>
+    <string name="fade_out">Fade Out</string>
+    <string name="blinking_mode">Blinking Mode</string>
+    <string name="alarm_tone">Alarm Tone</string>
+    <string name="dismiss_snooze">Dismiss Snooze</string>
+    <string name="automatic_dismiss">Automatic Dismiss</string>
+    <string name="never">Never</string>
+    <string name="automatic_snooze">Automatic Snooze</string>
+    <string name="flash_light">Flash Light</string>
+    <string name="snooze_after_15_minutes">Snooze after 15 minutes</string>
+    <string name="snooze">Snooze</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+    <string name="alarm_title">Alarm Title</string>
+</resources>
